@@ -7,6 +7,8 @@ This app is a technology test of NestJS and Prisma ORM. The current functionalit
  - Prisma ORM
  - Pactum (e2e testing)
  - Swagger
+ - JWT
+ - TypeScript
 
 ## Instructions
 
